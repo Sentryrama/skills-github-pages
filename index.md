@@ -1,6 +1,5 @@
 ---
 title: Mi Blog para Pruebas
-layout: home
 ---
 # Soy Harold Camacho Herrera
 
