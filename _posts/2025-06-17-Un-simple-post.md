@@ -1,5 +1,5 @@
 ---
-title: "Un-simple-post"
+title: "Un simple post"
 date: 2025-06-17
 ---
 # Esto es un simple post
