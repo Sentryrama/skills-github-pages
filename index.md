@@ -9,7 +9,11 @@ title: Mi Blog para Pruebas
 
 
 Estudiante de la _Universidad Autónoma Metropolitana **UAM**_ _Unidad Iztapalapa_
+
 ---
+
 [Un simple post](./_posts/2025-06-17-Un-simple-post.md/)
+
 ---
+
 [HTML Review](./_posts/2025-06-16-html-review.md)
