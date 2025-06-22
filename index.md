@@ -5,15 +5,8 @@ title: Mi Blog para Pruebas
 
 ## Aprendo a desarrollar aplicaciónes Android y tecnologías WEB para complemetar
 
-<img src="https://lh3.googleusercontent.com/proxy/jtzjTc-BFh1eHQdGLSXboD7PCWEeNrGE32y-yEBVPcRuVf8WlduZQpr4l4XVcFwvtnbsKBL1kA9XNELYZ8iPPYGfHQVPB4F6_UPSo41fidmbrZlZmA2UTkI" alt="uami logo" width=300px >  
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png" alt="android dev" width=100% >  
 
 
 Estudiante de la _Universidad Autónoma Metropolitana **UAM**_ _Unidad Iztapalapa_
 
----
-
-[Un simple post](./_posts/2025-06-17-Un-simple-post.md/)
-
----
-
-[HTML Review](./_posts/2025-06-16-html-review.md)
